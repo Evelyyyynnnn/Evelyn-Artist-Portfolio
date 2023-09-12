@@ -144,7 +144,7 @@ userdata:
   email: # E.g: youremail@domain.com
   twitter: # E.g: "@my_twitter"
   disqus:
-    username: # E.g: myuser
+    username: "vicky1002"
   socials:
     title: Follow Me!
     links:
