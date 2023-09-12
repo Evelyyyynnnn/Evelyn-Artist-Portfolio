@@ -41,7 +41,7 @@ website:
       flip:
         img: "typing_back.png"
     title:
-      text: "Hey, <br> I'm Vicky."
+      text: "Hello, <br> I'm Vicky."
       size: "2.3rem"
     menu:
       blog:
