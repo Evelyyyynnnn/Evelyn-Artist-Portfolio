@@ -4,7 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2019-10-03 10:22:16 -0300
 tags: ["example","welcome","jekyll","typing"]
 published: true
-comments: true
 script: [post.js]
 excerpted: |
     You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
