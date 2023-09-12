@@ -1,7 +1,7 @@
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://jekyll-typing-artist.vercel.app"
 # the subpath of your site, e.g. /blog/
-# baseurl: "./"
+baseurl: "./"
 
 
 # Plugins Gemfile
