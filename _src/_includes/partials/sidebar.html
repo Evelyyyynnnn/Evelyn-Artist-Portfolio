@@ -23,7 +23,7 @@
                 {% if load_options.sidebar.avatar.border == true %} sidebar_avatar_border {% endif %}
                 image_avatar
               "
-              src="{{  site.url }}/{{ load_data.website.sidebar.avatar.img }}"
+              src="{{  prepend: site.url }}/{{ load_data.website.sidebar.avatar.img }}"
               alt="Avatar">
               {% else %}
                 <!-- Add your SVG - BEGIN -->
