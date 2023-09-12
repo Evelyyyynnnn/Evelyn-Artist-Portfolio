@@ -23,7 +23,7 @@
                 {% if load_options.sidebar.avatar.border == true %} sidebar_avatar_border {% endif %}
                 image_avatar
               "
-              src="{{  prepend: site.url }}/{{ load_data.website.sidebar.avatar.img }}"
+              src="{{  prepend: site.url }}/assets/images/avatar/{{ load_data.website.sidebar.avatar.img }}"
               alt="Avatar">
               {% else %}
                 <!-- Add your SVG - BEGIN -->
@@ -40,7 +40,7 @@
                 {% if load_options.sidebar.avatar.border == true %} sidebar_avatar_border {% endif %}
                 image_avatar
               "
-              src="{{ site.url }}/{{ load_data.website.sidebar.avatar.flip.img }}"
+              src="{{  prepend: site.url }}/assets/images/avatar/{{ load_data.website.sidebar.avatar.flip.img }}"
               alt="Avatar">
               {% else %}
                 <!-- Add your SVG - BEGIN -->
@@ -62,7 +62,7 @@
               {% if load_options.sidebar.avatar.background == true %} sidebar_avatar_background {% endif %}
               {% if load_options.sidebar.avatar.border == true %} sidebar_avatar_border {% endif %}
               image_avatar"
-            src="{{  site.url }}/{{ load_data.website.sidebar.avatar.img }}"
+            src="{{  prepend: site.url }}/assets/images/avatar/{{ load_data.website.sidebar.avatar.img }}"
             alt="Avatar"/>
             {% else %}
               <!-- Add your SVG - BEGIN -->
