@@ -12,7 +12,7 @@ website:
     subtitle: |
       It will not have forecast of return. Meanwhile, follow me on the social networks below.
 # Theme - Values [ typing | whiteglass | cloudysky | hacking | littlegirl | custom ]
-  theme: "hacking"
+  theme: "littlegirl"
 # Configuration default
   title: "Typing"
   description: "Typing - A Theme for Jekyll"
@@ -45,7 +45,7 @@ website:
       size: "2.3rem"
     menu:
       blog:
-        text: "Blog"
+        text: "Art Design"
         search:
           text: "Search"
         tags:
@@ -71,10 +71,10 @@ website:
         text: "Comments"
       author:
         avatar: "author.png"
-        title: "Author"
-        name: "Typing Theme"
+        title: "Vicky"
+        name: "Artist Creation"
         description: |
-          Hi! I'm the Typing theme. :)
+          Hey!Here is Vicky. :)
       share:
         title: "Share this post"
       comments:
