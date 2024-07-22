@@ -25,7 +25,7 @@ If you wanted to know about my design style,you come to the correct page.
 [X Academy](https://xacademy.cc/) : WE CHOOSE TO GO TO THE MOON.
 
 
-|[Tech X](https://mp.weixin.qq.com/s/gcdqIDT429L79fLW5ztZuQ){:target="_blank"}&nbsp;&nbsp;[@Yanbingliu](https://yanbing.one/)&nbsp;&nbsp;[@RIZE](https://rize.io/?code=97BC05)&nbsp;&nbsp;[@VickyDou](https://bento.me/viicky)|
+|[Tech X](https://mp.weixin.qq.com/s/gcdqIDT429L79fLW5ztZuQ){:target="_blank"}&nbsp;&nbsp;[@Yanbingliu](https://yanbing.one/)&nbsp;&nbsp;[@RIZE](https://rize.io/?code=97BC05)&nbsp;&nbsp;[@EvelynDou](https://bento.me/linda-lin)|
 --------------------------|----------------------------
 | **Status**: <label style="color:green;">Finished</label> |
 | **Description**: X-Academy,is one [university](https://www.instagram.com/techx.academy/) that only esists for 12 days.
@@ -45,7 +45,7 @@ If you wanted to know about my design style,you come to the correct page.
 
 ## Project 3:[Founder of VIRA](https://www.linkedin.com/company/viraedtech/)
 
-|[赋能一代，斯想澎湃](https://www.linkedin.com/company/viraedtech/){:target="_blank"}&nbsp;&nbsp;[@VickyDou](https://bento.me/viicky)&nbsp;&nbsp;[@VicoleLi](https://www.linkedin.com/in/vicole-li/)|
+|[赋能一代，斯想澎湃](https://www.linkedin.com/company/viraedtech/){:target="_blank"}&nbsp;&nbsp;[@EvelynDou](https://bento.me/linda-lin)&nbsp;&nbsp;[@VicoleLi](https://www.linkedin.com/in/vicole-li/)|
 --------------------------|----------------------------
 | **Status**: <label style="color:green;">Active</label> |
 | **Description**: [赋斯科技](https://s2.loli.net/2023/09/11/XpHC8l7TSIAZOdP.jpg),Visualize Your Education.
@@ -54,7 +54,7 @@ If you wanted to know about my design style,you come to the correct page.
 
 ## Project 4:[Executive of Howdream](https://howdream.mystrikingly.com/)
 
-|[Howdream](https://howdream.mystrikingly.com/){:target="_blank"}&nbsp;&nbsp;[@VickyDou](https://bento.me/viicky)&nbsp;&nbsp;[@VicoleLi](https://www.linkedin.com/in/vicole-li/)|
+|[Howdream](https://howdream.mystrikingly.com/){:target="_blank"}&nbsp;&nbsp;[@EvelynDou](https://bento.me/linda-lin)&nbsp;&nbsp;[@VicoleLi](https://www.linkedin.com/in/vicole-li/)|
 --------------------------|----------------------------
 | **Status**: <label style="color:green;">Active</label> |
 | **Description**: [好梦文化](https://mp.weixin.qq.com/s/8Kl8sQTyXUx4juXD_gC5wA),start from the principle to cure lonely children.

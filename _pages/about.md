@@ -24,7 +24,7 @@ permalink: /about/ # add permilink for page. E.g: /smallparty/
 
 <img align="right" src="https://s2.loli.net/2023/09/11/mZpAIGLw649sgVr.png" width = "210" height = "200"/>
 
-Hey, I'am [Vicky](https://bento.me/viicky){: target="_blank"}. I'm a **Web/UIUX/Game/Photo/Video Designer**.
+Hey, I'am [Evelyn](https://bento.me/linda-lin){: target="_blank"}. I'm a **Web/UIUX/Game/Photo/Video Designer**.
 - **My Motto** is always to <u>create interesting and meaningful things to others</u>.
 - **My passion** lies in [Art Healing](https://jiyan.org/psychotherapy/?gclid=EAIaIQobChMIqu7k4reigQMV5MjjBx1n7gMaEAAYASAAEgJtUvD_BwE),[Music Performance](https://phamoxmusic.com/music-performance/) which could be related with youngster's [Autism treatment](https://www.nichd.nih.gov/health/topics/autism/conditioninfo/treatments).
 

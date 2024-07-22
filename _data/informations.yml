@@ -41,7 +41,7 @@ website:
       flip:
         img: "typing_back.png"
     title:
-      text: "Hey, <br> I'm Vicky."
+      text: "Hey, <br> I'm Evelyn."
       size: "2.3rem"
     menu:
       blog:
@@ -74,7 +74,7 @@ website:
         title: "Vicky"
         name: "Artist Creation"
         description: |
-          Hey!Here is Vicky. :)
+          Hey!Here is Evelyn. :)
       share:
         title: "Share this post"
       comments:
