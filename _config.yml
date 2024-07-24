@@ -2,23 +2,22 @@
 url: "https://jekyll-typing-artist.vercel.app"
 # the subpath of your site, e.g. /blog/
 # baseurl: "/"
-
+baseurl: ""
 
 # Plugins Gemfile
 plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-
 # Plugins de player - Jektify
 jektify:
   enable: true
-  open: true
+  open: false
   toggle:
     enable: true
   spotify:
-    user: # "you_user_spotify"
-    text: "See me no Spotify"
+    user: "williamcanin" # "you_user_spotify"
+    text: "Siga-me no Spotify"
   sass:
     jekyll: true
     other:
@@ -49,25 +48,19 @@ layouts_dir: _src/_layouts
 includes_dir: _src/_includes
 plugins_dir: _src/_plugins
 
-destination: public
+destination: ../public
 port: 4000
 host: localhost
 
 sass:
   load_paths:
   - _src/_sass
-  - node_modules
   - vendor/node_modules
+  - node_modules
   style: compressed
 
 feed:
   path: /blog/feed.xml
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
 
 tag_page_layout: tag
 tag_page_dir: blog/tags
@@ -82,10 +75,10 @@ imager:
 ### es_ES - Spanish | fr_FR - French | it_IT - Italian
 ### ja_JP - Japan | pt_PT - Portuguese | ru_RU - Russian
 reading_time:
-  locale: en_US
+  locale: pt_PT
 
 datelang:
-  locale: en_US
+  locale: pt_PT
   reload: true
 
 pagination:
@@ -97,7 +90,7 @@ pagination:
   per_page: 5
   permalink: '/:num/'
   locale: ''
-  title: ':title - Page :num'
+  title: ':title - Página :num'
   limit: 0
   extension: html
   indexpage: 'index'
@@ -106,10 +99,16 @@ gist:
   noscript: false
 
 exclude:
+  - _pages/resume_printer.md
+  - README-ptbr.md
+  - yarn-error.log
+  - docs/data
   - temp
   - tmp
   - .hidden
-  - yarn-error.log
+  - public.sh
+  - docs/config
+  - gulpfile.js
   - node_modules
   - _src
   - vendor
@@ -121,9 +120,6 @@ exclude:
   - COPYING
   - package-lock.json
   - package.json
-  - README.md
-  - README-ptbr.md
-  - gulpfile.js
   - Rakefile
   - yarn.lock
   - Makefile
