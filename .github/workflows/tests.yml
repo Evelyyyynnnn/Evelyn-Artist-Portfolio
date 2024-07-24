@@ -36,3 +36,10 @@ jobs:
         npm install yarn
         yarn install
         yarn build
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.4.2
+      with:
+          branch: gh-pages
+          folder: public
+          clean: true
+          single-commit: true
