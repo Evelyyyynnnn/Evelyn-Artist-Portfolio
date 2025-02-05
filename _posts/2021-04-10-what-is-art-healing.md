@@ -15,9 +15,7 @@ day_quote:
 * Do not remove this line (it will not be displayed)
 {: toc}
 ## Introduction
-According to a recent study released by the Pew Research Center, about 40 percent of Americans regularly meditate to control their mental health. In recent years, various psychotherapy methods have also emerged, including artistic therapy, which is becoming more and more popular.
 
-## Academic Background
 
 In fact, art has had a healing function since ancient times. As archaeologists discover and gather more evidence and new sites, Neanderthals created various shapes and sizes of markings on the walls of caves - this is the earliest form of art.
 
