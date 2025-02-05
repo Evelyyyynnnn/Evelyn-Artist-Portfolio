@@ -33,7 +33,7 @@ jobs:
 
     - name: Typing Jekyll Template - Build
       run: |
-        npm install yarn
+        npm install -g  yarn
         yarn install
         yarn build
     - name: Deploy 🚀
