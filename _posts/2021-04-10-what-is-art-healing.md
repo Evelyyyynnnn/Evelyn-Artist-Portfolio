@@ -21,21 +21,11 @@ In fact, art has had a healing function since ancient times. As archaeologists d
 
 According to Packard, humans during this period may have begun using art to psychologically prepare hunters for their long and dangerous hunting expeditions. These cave paintings depicted the fears, hopes, and desires of hunters, and were symbolically offered to their gods.
 
-<img src="https://s2.loli.net/2023/09/20/JUtq8da3Cky7nFG.png" alt="Art Healing Process" width="790" height="600">
 As one of the most developed countries in art therapy, the art therapy industry in the United States has a history of over 80 years. In recent years, universities have gradually incorporated "art therapy" into their discipline and professional scope, as well as the development of "humanistic art therapy" in China. Art therapy has become a truly emerging treatment technology in China. 
 
 By definition, art therapy is an auxiliary form of psychotherapy that differs from language communication in conventional psychotherapy. It uses creative forms to analyze and explore individual problems through artistic creation. Simply put, it is a way to vent emotions and heal oneself through watching or creating. The art therapy profession spans both art and psychology majors, and the presentation of works is mainly in the form of visual art, manifested in performing arts such as illustration, installation, interactive media, dance, drama, etc. Translate the above paragraph into English
 
-## Business Background
-s in various clinical environments and earning 12 internship credits.
 <img src="https://s2.loli.net/2023/09/20/DYju7w4tChOr9kH.png" alt="Art Healing Process" width="800" height="1300">
-NYU's art therapy program is a two-year program that integrates psychotherapy and visual art practice, utilizing the creativity of art for clinical evaluation and treatment. Intended to cultivate entry-level art therapists with abilities in the fields of cognition, psychomotor, and emotional learning.
-
-At the same time, there are abundant internship opportunities, completing 1000 internship hour
-
-Application requirements: No relevant background or major is required. It is best to have an artistic or psychological background, but it is not mandatory.
-
-A collection of works is required.
 
 
 

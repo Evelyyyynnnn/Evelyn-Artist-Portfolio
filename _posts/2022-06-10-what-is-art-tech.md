@@ -20,20 +20,16 @@ Artificial Intelligence (AI) has become an essential part of technological innov
 ## Academic Background
 The foundation of Tech AI is deeply rooted in computer science and mathematics. Early research in AI focused on symbolic reasoning, rule-based systems, and logical decision-making. Over the decades, the integration of machine learning (ML) and deep learning (DL) has reshaped AI into a field capable of mimicking human-like behavior.
 
-<img src="https://p.afbcs.cn/KCyp9c" alt="Art Healing Process" width="790" height="600">
+<img src="https://www.constellationr.com/sites/default/files/uploads/Generative%20AI%20-%20LLMs%20-%20Foundation%20Models%20-%20The%20Future%20of%20Work.png" alt="Art Healing Process" width="800" height="1300">
 Generative AI, one of the most exciting domains, leverages techniques like neural networks to generate new content such as text, images, and even music. A pivotal breakthrough was the introduction of models like GPT (Generative Pre-trained Transformer) and diffusion-based models like Stable Diffusion.
 
 Educational institutions have started offering specialized AI programs. For example, Stanford University offers advanced courses in Generative AI and neural networks, while platforms like Hugging Face and Scikit-learn provide developers with powerful tools for AI model deployment. 
 
 As an emerging discipline, Tech AI spans multiple domains such as computer vision, natural language processing, and reinforcement learning. The presentation of its applications includes innovations in fields like autonomous vehicles, healthcare diagnostics, and personalized education. Tech AI represents the synthesis of computational capabilities and domain-specific insights, transforming how humans interact with technology.
-<img src="https://p.afbcs.cn/y9UfYq" alt="Art Healing Process" width="790" height="600">
-
-
 
 ## Business Background
 Tech AI has become a driving force in both industry and academia. For example, companies like OpenAI and Google DeepMind lead the charge in developing AI models that redefine the boundaries of human creativity and problem-solving. Tools like Scikit-learn enable businesses to build predictive models using structured data, while Hugging Face provides state-of-the-art frameworks for deploying large language models (LLMs).
 
-<img src="https://p.afbcs.cn/bmsJCM" alt="Tech AI Applications" width="800" height="1300">
 
 ### 1. Major Investments by Tech Giants
 
