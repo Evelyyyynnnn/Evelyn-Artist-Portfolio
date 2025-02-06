@@ -6,7 +6,7 @@
   "scripts": {
     "preinstall": "bundle install",
     "postinstall": "gulp postinstall",
-    "build": "JEKYLL_ENV=production bundle exec jekyll build --output _site ;  gulp",
+    "build": "JEKYLL_ENV=production bundle exec jekyll build  ;  gulp",
     "serve": "bundle exec jekyll serve --drafts",
     "page": "bundle exec rake page",
     "post": "bundle exec rake post",
