@@ -1,0 +1,17 @@
+[
+  
+    {
+      "title"    : "What is Tech AI",
+      "tags"     : "Tech, Generative AI, Scikit-learn, Hugging Face",
+      "url"     : "/blog/what-is-art-tech/",
+      "date"     : "10/4/2021"
+    } ,
+  
+    {
+      "title"    : "What is Art Healing",
+      "tags"     : "Art Hearling, Psychological Design, Pressure&Loneliness",
+      "url"     : "/blog/what-is-art-healing/",
+      "date"     : "10/4/2021"
+    } 
+  
+]
